@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: jcauser-com
+description: Jemima Causer's website
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://jemima-causer.github.io/jcauser-com
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
